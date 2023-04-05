@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download Invoice after purchase order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd3c7e2a-f075-42a0-b863-1d95b5749ecd</testCaseGuid>
+</TestCaseEntity>

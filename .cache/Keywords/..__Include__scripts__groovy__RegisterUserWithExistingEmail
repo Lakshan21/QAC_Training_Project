@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "92849975AA78FFF53B72CCF8F2F2ECB8",
+  "keywordClasses": [
+    {
+      "name": "RegisterUserWithExistingEmail",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

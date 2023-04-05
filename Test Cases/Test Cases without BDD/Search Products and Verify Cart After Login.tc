@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Products and Verify Cart After Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77823e36-1de4-4298-a5d3-8941ac8d63aa</testCaseGuid>
+</TestCaseEntity>

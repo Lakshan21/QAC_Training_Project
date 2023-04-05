@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CF710C9015086D2BCC937B74EE37C412",
+  "keywordClasses": [
+    {
+      "name": "customkeyword.VerifyFile",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

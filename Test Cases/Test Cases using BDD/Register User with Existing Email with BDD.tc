@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register User with Existing Email with BDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5d95685-8625-448e-affc-b2842ab72157</testCaseGuid>
+</TestCaseEntity>

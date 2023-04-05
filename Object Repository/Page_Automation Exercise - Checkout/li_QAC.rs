@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_QAC</name>
+   <tag></tag>
+   <elementGuidId>f4c32c22-3a6b-4d4e-a7ab-1df16360dff4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.address_address1.address_address2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='address_delivery']/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>988315f0-03cb-45a6-bf31-51040b12403f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>address_address1 address_address2</value>
+      <webElementGuid>4dd197dc-b5a3-41af-820b-2221a0ef40ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QAC</value>
+      <webElementGuid>7a97cbfa-be95-4589-ac0d-dccf10f3a098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;address_delivery&quot;)/li[@class=&quot;address_address1 address_address2&quot;]</value>
+      <webElementGuid>123ef432-d295-4bb2-ac68-5393b75a7acd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='address_delivery']/li[3]</value>
+      <webElementGuid>28b1c357-8f17-42d2-8e31-bfc17a7145a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr. Billy Bob'])[1]/following::li[1]</value>
+      <webElementGuid>1fc2724f-52f2-4d0a-90ac-127bec6ac24a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your delivery address'])[1]/following::li[2]</value>
+      <webElementGuid>4bb8fbc8-4622-474c-bbcb-822e19ac9211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canada'])[1]/preceding::li[4]</value>
+      <webElementGuid>315e50f8-ea17-4f18-8bbd-293f826a2104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='QAC']/parent::*</value>
+      <webElementGuid>d29be551-3dc1-4fc3-8ac3-8c9771cddbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[3]</value>
+      <webElementGuid>dcfb811d-cf16-4b30-9ad7-391d92a945cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'QAC' or . = 'QAC')]</value>
+      <webElementGuid>2669ce7e-724f-40bf-bec3-6c6638ce46d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

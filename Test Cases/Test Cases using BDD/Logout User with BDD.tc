@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logout User with BDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d397ee2-3db0-4c18-8216-46dc40be0d3b</testCaseGuid>
+</TestCaseEntity>

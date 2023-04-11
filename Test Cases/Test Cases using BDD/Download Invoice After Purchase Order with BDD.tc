@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download Invoice After Purchase Order with BDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb9fba6-30c5-47c3-a979-fa48f8d86ec9</testCaseGuid>
+</TestCaseEntity>

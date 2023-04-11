@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "AF3C6F588541B357C50CEF2C3C336879",
+  "keywordClasses": [
+    {
+      "name": "DownloadInvoiceAfterPurchaseOrder",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

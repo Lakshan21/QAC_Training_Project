@@ -21,6 +21,8 @@ WebUI.callTestCase(findTestCase('Test Cases without BDD/Reusable Test Cases/Veri
 
 WebUI.click(findTestObject('Object Repository/Page_Automation Exercise/a_Cart'))
 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Automation Exercise - Checkout/li_Shopping Cart'), 'Shopping Cart')
+
 WebUI.scrollToElement(findTestObject('Object Repository/Page_Automation Exercise - Checkout/h2_Subscription'), 0)
 
 WebUI.verifyElementText(findTestObject('Page_Automation Exercise - Checkout/h2_Subscription'), 'SUBSCRIPTION')

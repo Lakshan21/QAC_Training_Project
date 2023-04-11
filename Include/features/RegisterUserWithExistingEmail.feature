@@ -1,6 +1,6 @@
 Feature: Test registering a user with an existing email functionality
 
-  Scenario: Check if logout feature is successful after logging in
+  Scenario: Check if registering a user with existing email gives an error
   	Given user is on home page
     Given user is on sign up page
     When user enters a name and existing email

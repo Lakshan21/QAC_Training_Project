@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Subscription In Cart Page with BDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e06d12e3-6d51-4f2b-a198-8ac243c0f291</testCaseGuid>
+</TestCaseEntity>

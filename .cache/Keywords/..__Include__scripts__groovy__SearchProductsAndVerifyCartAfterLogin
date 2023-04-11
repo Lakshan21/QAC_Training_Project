@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3AA78627E4E32E91F4C19F3AE9084872",
+  "keywordClasses": [
+    {
+      "name": "SearchProductsAndVerifyCartAfterLogin",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

@@ -17,11 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-File downloadFolder = new File ("C:\\Users\\lganeshalingam\\Downloads")
+File downloadFolder = new File('C:\\Users\\lganeshalingam\\Downloads')
+
 List namesOfFiles = Arrays.asList(downloadFolder.list())
-if (namesOfFiles.contains("invoice.txt")) {
-	println "File downloaded"
+
+if (namesOfFiles.contains('invoice.txt')) {
+    println('File downloaded')
+} else {
+    println('Failure')
 }
-else {
-	println "Failure"
-}
+
+

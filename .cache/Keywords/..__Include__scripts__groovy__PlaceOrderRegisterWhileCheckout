@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A803C53F27AEC982CB2934CF9C8D1D2D",
+  "keywordClasses": [
+    {
+      "name": "PlaceOrderRegisterWhileCheckout",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

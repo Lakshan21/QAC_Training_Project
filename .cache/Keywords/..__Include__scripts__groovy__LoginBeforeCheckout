@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E9F4E7FD0CDFF2CC57DCF8357DE2F6E9",
+  "keywordClasses": [
+    {
+      "name": "LoginBeforeCheckout",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

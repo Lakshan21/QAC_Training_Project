@@ -14,7 +14,7 @@ public class LoginUserSteps {
 		WebUI.navigateToUrl('https://www.automationexercise.com/')
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Automation Exercise/h1_AutomationExercise'), 'AutomationExercise')
 	}
-	
+
 	@Given("user is on login page")
 	public void user_is_on_login_page() {
 		WebUI.click(findTestObject('Page_Automation Exercise/a_Signup  Login'))

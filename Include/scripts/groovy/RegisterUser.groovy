@@ -10,7 +10,7 @@ import cucumber.api.java.en.When
 public class RegisterUser {
 	@Given("user is on sign up page")
 	public void user_is_on_sign_up_page() {
-	
+
 		WebUI.click(findTestObject('Page_Automation Exercise/a_Signup  Login'))
 
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Automation Exercise - Signup  Login/h2_New User Signup'), 'New User Signup!')
@@ -84,14 +84,12 @@ public class RegisterUser {
 	}
 
 
-	@Then("user account is created and navigated to the home page")
+	@Then("user account is created")
 	public void user_account_is_created_and_navigated_to_the_home_page() {
 		WebUI.verifyElementText(findTestObject('Page_Automation Exercise - Account Created/b_Account Created'), 'ACCOUNT CREATED!')
-
-		WebUI.click(findTestObject('Object Repository/Page_Automation Exercise - Account Created/a_Continue'))
-
-		WebUI.click(findTestObject('ad_close_btn'))
-
+	}
+	@Then("registered user is logged in")
+	public void registered_user_is_logged_in() {
 		WebUI.verifyElementText(findTestObject('Object Repository/Page_Automation Exercise/a_Logged in as Billy Bob'), 'Logged in as Billy Bob')
 	}
 }

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/section[2]/div/div/div[2]/div/div[3]/div/div[1]/div[1]/a</value>
+         <value>//div[@class='productinfo text-center']/p[text()='Men Tshirt']/following-sibling::a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

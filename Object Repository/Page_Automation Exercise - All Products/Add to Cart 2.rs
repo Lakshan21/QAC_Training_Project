@@ -6,11 +6,11 @@
    <elementGuidId>6f3bf830-cf6e-46a1-8bcd-70dfe360db02</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/section[2]/div/div/div[2]/div[1]/div[3]/div/div[1]/div[1]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@class='productinfo text-center']/p[text()='Men Tshirt']/following-sibling::a</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
